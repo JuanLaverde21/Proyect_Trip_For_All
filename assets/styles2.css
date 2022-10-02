@@ -1,0 +1,26 @@
+.navbar {
+   
+    padding-bottom: 10px;
+    color:rgb(225, 169, 63) ;
+
+  }
+  
+  .btn {
+    background:rgb(225, 169, 63) ;
+  }
+  
+
+  .card{
+    color: rgb(225, 169, 63);
+      display: flex;
+      margin: 100px 0px 0px 0px;
+        
+  }
+  
+#scrollspyHeading1{
+  margin-top: 100px;
+}
+
+#scrollspyHeading2  {
+  margin-top: 100px;
+}
